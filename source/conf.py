@@ -11,3 +11,4 @@ html_theme = 'nature'
 
 html_static_path = ['_static']
 
+html_use_index = True;

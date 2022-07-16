@@ -5,6 +5,7 @@ Welcome to my Personal Notes!
    :maxdepth: 2
    :caption: Contents:
 
+   src/nixos-wireguard-setup.rst
 
 
 Indices and tables
